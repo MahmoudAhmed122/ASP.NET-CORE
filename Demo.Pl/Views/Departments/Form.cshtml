@@ -1,0 +1,52 @@
+﻿@model DepartmentViewModel
+
+@{
+    ViewData["Title"] = $"{(Model?.Id > 0 ? "Edit" : "Add")} Department"; ;
+}
+
+
+<div class="card border-secondary mb-3" style="max-width: 100%; margin-top:20px;">
+    <div class="card-header">Add New Department</div>
+    <div class="card-body">
+        <div class="row" style="margin-left:200px;">
+            <div class="col-md-8">
+                <form method="post" asp-controller="Departments" asp-action="@(Model?.Id > 0 ? "Edit" : "Create")">
+                    @if(Model?.Id > 0)   
+                    {
+                    <input type="hidden" asp-for="Id"/>   <!--We Make it to know which department we update and make it hidden it insure that user will not change and to copmare it with id from url-->
+                        
+                    }
+                    <div class="form-group">
+                        <label class="form-label mt-2" asp-for="Name"></label>
+                        <input type="text" asp-for="Name" class="form-control" placeholder="Enter Department Name">
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label mt-2" asp-for="Code"></label>
+                        <input type="text" asp-for="Code" class="form-control" placeholder="Enter Department Code">
+                        <span asp-validation-for="Code" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group"></div>
+                    <button type="submit" class="btn btn-primary mt-2">Save</button>
+                    <a asp-controller="Departments" asp-action="Index" class="btn btn-danger mt-2">Back To List</a>
+
+                </form>
+
+            </div>
+
+        </div>
+    
+
+
+    </div>
+</div>
+
+
+
+
+@section Scripts{
+
+
+    <partial name="_ValidationScriptsPartial" />
+}

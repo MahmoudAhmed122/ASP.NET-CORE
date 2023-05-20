@@ -1,0 +1,34 @@
+﻿@model ApplicationUser
+
+@{
+    ViewData["Title"] = "Delete User" ;
+}
+
+
+<div class="card border-secondary mb-3" style="max-width: 100%; margin-top:20px;">
+    <h4 class="card-header text-danger"> Are You Sure You Want To Delete This User? </h4>
+
+    <div class="card-body">
+        <div class="row" style="margin-left:200px;">
+            <div class="col-md-8">
+                <form method="post" asp-controller="Users" asp-action="Delete" enctype="multipart/form-data">
+
+                        <input type="hidden" asp-for="Id" />   <!--We Make it to know which Employee we update and make it hidden it insure that user will not change and to copmare it with id from url-->
+                  <partial name="SharedViews/_PropertiesPartial"/>  
+                  
+                    <button type="submit" class="btn btn-warning mt-2">
+                        Delete
+                        <i class="fas fa-trash"></i>
+                    </button>
+                    <a asp-controller="Users" asp-action="Index" class="btn btn-danger mt-2">Back To List</a>
+
+                </form>
+               
+            </div>
+
+        </div>
+
+
+
+    </div>
+</div>

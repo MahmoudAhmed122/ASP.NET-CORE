@@ -1,0 +1,41 @@
+﻿@model RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_AuthenticationLayout2";
+}
+
+<form asp-asp-controller="Accounts" asp-action="Register" method="post">
+    <div asp-validation-summary="All"></div>
+
+    <div class="txt_field">
+        <input type="email" asp-for="Email" required>
+        <span></span>
+        <label>Email</label>
+    </div>
+    <div class="txt_field">
+        <input type="password" asp-for="Password" required>
+        <span></span>
+        <label>Password</label>
+    </div>
+    <div class="txt_field">
+        <input type="password" asp-for="ConfirmPassword" required>
+        <span></span>
+        <label>Confirm Password</label>
+    </div>
+   <input type="submit" value="Register">
+   <div style="display:flex;">
+        <div style="margin-top:30px; margin-right:20px" class="form-check">
+            <input class="form-check-input" asp-for="IsAgree" type="checkbox">
+            <label class="form-check-label">
+                Is Agree to Conditions
+            </label>
+        </div>
+        <div class="signup_link">
+            a member? <a a asp-asp-controller="Accounts" asp-action="Login">Login</a>
+        </div>
+   </div>
+   
+</form>
+
+    <partial name="_ValidationScriptsPartial" />
+

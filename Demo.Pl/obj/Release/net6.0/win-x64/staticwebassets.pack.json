@@ -1,0 +1,613 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\obj\\Release\\net6.0\\win-x64\\scopedcss\\projectbundle\\Demo.Pl.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Demo.Pl.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\1.jpg",
+      "PackagePath": "staticwebassets\\1.jpg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\@fortawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\@fortawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\@fortawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\@fortawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\@fortawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\@fortawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\@fortawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\@fortawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\@fortawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\@fortawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\@fortawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\@fortawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\@fortawesome\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\@fortawesome\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\@fortawesome\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\@fortawesome\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\bootstrap-icons\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap-icons\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\bootstrap-icons\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap-icons\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\fonticon\\fonticon.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonticon\\fonticon.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\fonticon\\fonticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonticon\\fonticon.eot"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\fonticon\\fonticon.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonticon\\fonticon.html"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\fonticon\\fonticon.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonticon\\fonticon.scss"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\fonticon\\fonticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonticon\\fonticon.svg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\fonticon\\fonticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonticon\\fonticon.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\fonticon\\fonticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonticon\\fonticon.woff"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\fonticon\\fonticon.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonticon\\fonticon.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\line-awesome\\la-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome\\la-brands-400.eot"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\line-awesome\\la-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome\\la-brands-400.svg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\line-awesome\\la-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome\\la-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\line-awesome\\la-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome\\la-brands-400.woff"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\line-awesome\\la-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome\\la-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\line-awesome\\la-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome\\la-regular-400.eot"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\line-awesome\\la-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome\\la-regular-400.svg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\line-awesome\\la-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome\\la-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\line-awesome\\la-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome\\la-regular-400.woff"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\line-awesome\\la-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome\\la-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\line-awesome\\la-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome\\la-solid-900.eot"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\line-awesome\\la-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome\\la-solid-900.svg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\line-awesome\\la-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome\\la-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\line-awesome\\la-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome\\la-solid-900.woff"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\assets\\fonts\\line-awesome\\la-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome\\la-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\AuthenticationLayoutStylecss.css",
+      "PackagePath": "staticwebassets\\css\\AuthenticationLayoutStylecss.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\Theme.css",
+      "PackagePath": "staticwebassets\\css\\Theme.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\@fortawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\@fortawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\@fortawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\@fortawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\@fortawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\@fortawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\@fortawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\@fortawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\@fortawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\@fortawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\@fortawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\@fortawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\@fortawesome\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\@fortawesome\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\@fortawesome\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\@fortawesome\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\bootstrap-icons\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\bootstrap-icons\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\bootstrap-icons\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\bootstrap-icons\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\fonticon\\fonticon.css",
+      "PackagePath": "staticwebassets\\css\\fonts\\fonticon\\fonticon.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\fonticon\\fonticon.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\fonticon\\fonticon.eot"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\fonticon\\fonticon.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\fonticon\\fonticon.html"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\fonticon\\fonticon.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\fonticon\\fonticon.scss"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\fonticon\\fonticon.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\fonticon\\fonticon.svg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\fonticon\\fonticon.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\fonticon\\fonticon.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\fonticon\\fonticon.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\fonticon\\fonticon.woff"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\fonticon\\fonticon.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\fonticon\\fonticon.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\line-awesome\\la-brands-400.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\line-awesome\\la-brands-400.eot"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\line-awesome\\la-brands-400.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\line-awesome\\la-brands-400.svg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\line-awesome\\la-brands-400.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\line-awesome\\la-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\line-awesome\\la-brands-400.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\line-awesome\\la-brands-400.woff"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\line-awesome\\la-brands-400.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\line-awesome\\la-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\line-awesome\\la-regular-400.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\line-awesome\\la-regular-400.eot"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\line-awesome\\la-regular-400.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\line-awesome\\la-regular-400.svg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\line-awesome\\la-regular-400.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\line-awesome\\la-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\line-awesome\\la-regular-400.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\line-awesome\\la-regular-400.woff"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\line-awesome\\la-regular-400.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\line-awesome\\la-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\line-awesome\\la-solid-900.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\line-awesome\\la-solid-900.eot"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\line-awesome\\la-solid-900.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\line-awesome\\la-solid-900.svg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\line-awesome\\la-solid-900.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\line-awesome\\la-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\line-awesome\\la-solid-900.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\line-awesome\\la-solid-900.woff"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\fonts\\line-awesome\\la-solid-900.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\line-awesome\\la-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\css\\stylecss.css",
+      "PackagePath": "staticwebassets\\css\\stylecss.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\009c187a-108d-494d-9e80-6319db1bd1a3photo_2022-12-14_01-30-48.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\009c187a-108d-494d-9e80-6319db1bd1a3photo_2022-12-14_01-30-48.jpg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\1a65a9b3-684a-4a78-a51f-2492be31d136photo_2022-12-14_01-30-48.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\1a65a9b3-684a-4a78-a51f-2492be31d136photo_2022-12-14_01-30-48.jpg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\1f503b6b-e9a8-4cf5-a563-af547f0e4278portrait-happy-male-with-broad-smile_176532-8175.webp",
+      "PackagePath": "staticwebassets\\files\\images\\1f503b6b-e9a8-4cf5-a563-af547f0e4278portrait-happy-male-with-broad-smile_176532-8175.webp"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\26d02ced-cfe0-4785-894f-04f8fec36ffcportrait-beautiful-young-woman-standing-grey-wall_231208-10760.webp",
+      "PackagePath": "staticwebassets\\files\\images\\26d02ced-cfe0-4785-894f-04f8fec36ffcportrait-beautiful-young-woman-standing-grey-wall_231208-10760.webp"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\3eee6d0e-bf0d-4b05-a61e-17965c4012adphoto_2022-12-14_01-30-48.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\3eee6d0e-bf0d-4b05-a61e-17965c4012adphoto_2022-12-14_01-30-48.jpg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\631835ef-c1ca-4668-b743-28f4016f2dbfR.png",
+      "PackagePath": "staticwebassets\\files\\images\\631835ef-c1ca-4668-b743-28f4016f2dbfR.png"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\67f57e41-39ff-4c4b-a226-e7ff7bcce716R.png",
+      "PackagePath": "staticwebassets\\files\\images\\67f57e41-39ff-4c4b-a226-e7ff7bcce716R.png"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\6b92b4b7-713b-4a15-b958-20347a025859photo_2022-12-14_01-30-48.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\6b92b4b7-713b-4a15-b958-20347a025859photo_2022-12-14_01-30-48.jpg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\71f6116d-575d-49a2-beac-77c8b5da074dportrait-happy-male-with-broad-smile_176532-8175.webp",
+      "PackagePath": "staticwebassets\\files\\images\\71f6116d-575d-49a2-beac-77c8b5da074dportrait-happy-male-with-broad-smile_176532-8175.webp"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\a67d4d95-f7c3-4511-a290-ccd8b5d53038download (3).jfif",
+      "PackagePath": "staticwebassets\\files\\images\\a67d4d95-f7c3-4511-a290-ccd8b5d53038download (3).jfif"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\b353c869-0b6c-496f-8e36-97be89df7ea8photo_2022-12-14_01-30-48.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\b353c869-0b6c-496f-8e36-97be89df7ea8photo_2022-12-14_01-30-48.jpg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\b9f0cbe4-6e11-4cfb-b752-4780ae61c48fdownload.jfif",
+      "PackagePath": "staticwebassets\\files\\images\\b9f0cbe4-6e11-4cfb-b752-4780ae61c48fdownload.jfif"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\dbf28a34-a940-4e55-ba09-040f2e164765download (4).jfif",
+      "PackagePath": "staticwebassets\\files\\images\\dbf28a34-a940-4e55-ba09-040f2e164765download (4).jfif"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\eeaac0ec-751f-4b41-b79f-6c15567a8d3cR.png",
+      "PackagePath": "staticwebassets\\files\\images\\eeaac0ec-751f-4b41-b79f-6c15567a8d3cR.png"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\f1e32816-1108-45a6-a0af-159c3f09b907photo_2022-12-14_01-30-48.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\f1e32816-1108-45a6-a0af-159c3f09b907photo_2022-12-14_01-30-48.jpg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\files\\images\\f4580cda-6886-4c10-9b3a-d01a17fb9aafphoto_2022-12-14_01-30-48.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\f4580cda-6886-4c10-9b3a-d01a17fb9aafphoto_2022-12-14_01-30-48.jpg"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\js\\validation-styling.js",
+      "PackagePath": "staticwebassets\\js\\validation-styling.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\.Net learning\\back_end\\Demo.Pl\\Demo.Pl\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.Demo.Pl.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.build.Demo.Pl.props",
+      "PackagePath": "build\\Demo.Pl.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.Demo.Pl.props",
+      "PackagePath": "buildMultiTargeting\\Demo.Pl.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.Demo.Pl.props",
+      "PackagePath": "buildTransitive\\Demo.Pl.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

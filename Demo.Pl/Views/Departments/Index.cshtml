@@ -1,0 +1,65 @@
+﻿@using Demo.DAL.Entities
+@model IEnumerable<DepartmentViewModel>
+
+@{
+    ViewData["Title"] = "Departments";
+}
+
+@if (Model.Count() > 0)
+{
+    <div class="card border-infi   mb-3 mt-5" style="max-width: 100%;">
+        <div class="card-header">
+            <h5>
+                All Departments <a asp-controller="Departments" asp-action="Create" class="btn btn-warning" style="margin-left:800px;"><h6>Add New Department</h6></a>
+            </h5>
+
+
+        </div>
+        <div class="card-body">
+            <form asp-action="Index">
+                <div class="row d-flex">
+                    <div class="col-md-6">
+                        <input class="form-control me-sm-2" type="search" name="searchValue" placeholder="Search By Name!">
+                    </div>
+                    <div class="col-4">
+                        <button class="btn btn-warning " type="submit">Search</button>
+                    </div>
+
+                </div>
+            </form>
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th scope="col">Code</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Details</th>
+                        <th scope="col">Update</th>
+                        <th scope="col">Delete</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var department in Model) { 
+                        <tr class="table-active">
+                        <td>@department.Code</td>
+                            <td>@department.Name</td>
+                         <partial name="_ButtonsPartial" model="@department.Id"/>
+                    </tr>
+                    }  
+                
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+}
+else
+{
+    <div class="alert alert-dismissible alert-danger mt-5">
+        <strong>
+            There Are No Departments Found!
+            <a asp-controller="Departments" asp-action="Create" class="btn btn-warning" style="margin-left:800px;"><h6>Add New Department</h6></a>
+        </strong>
+    </div>
+}
+

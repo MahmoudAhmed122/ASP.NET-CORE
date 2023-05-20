@@ -1,0 +1,23 @@
+﻿@model DepartmentViewModel
+@{
+    ViewData["Title"] = "Department Details";
+}
+
+
+<div class="card border-secondary mb-3" style="max-width: 100%; margin-top:20px;">
+    <h4 class="card-header text-danger"> Are You Sure You Want To Delete This Department? </h4>
+    <div class="card-body">
+        <div class="row" style="margin-left:200px;">
+            <div class="col-md-8">
+                <form method="post" asp-action="Delete" >
+                    <partial name="SharedViews/_PropertiesPartial" />
+
+                    <button type="submit" class="btn btn-primary mt-2">Delete</button>
+                    <a asp-action="Index" class="btn btn-success mt-2">Back To List</a>
+                </form>
+
+            </div>
+        </div>
+
+    </div>
+</div>

@@ -1,0 +1,17 @@
+﻿@model string
+<td>
+
+    <a asp-controller="Users" asp-action="Edit" asp-route-id="@Model" class="btn btn-warning btn-sm">
+        Edit
+        <i class="fas fa-edit"></i>
+    </a>
+
+</td>
+<td>
+
+    <a asp-controller="Users" asp-action="Delete" asp-route-id="@Model" class="btn btn-danger btn-sm">
+        Delete
+        <i class="fas fa-trash"></i>
+    </a>
+
+</td>

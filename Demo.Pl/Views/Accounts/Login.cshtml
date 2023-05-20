@@ -1,0 +1,39 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "_AuthenticationLayout2";
+}
+
+<form asp-asp-controller="Accounts" asp-action="Login" method="post">
+    <div asp-validation-summary="All"></div>
+    <div class="txt_field">
+        <input type="email" asp-for="Email" required>
+        <span></span>
+        <label>Email</label>
+    </div>
+    <div class="txt_field">
+        <input type="password" asp-for="Password" required>
+        <span></span>
+        <label>Password</label>
+    </div>
+
+    <div style="display:flex;">
+
+        <div class="form-check">
+            <input class="form-check-input" asp-for="RememberMe" type="checkbox">
+            <span asp-validation-for="RememberMe"></span>
+            <label class="form-check-label">
+                Remember Me
+            </label>
+        </div>
+        <div style="margin-left:40px;" class="pass"><a asp-asp-controller="Accounts" asp-action="ForgetPassword">Forget Password</a></div>
+    </div>
+    <input type="submit" value="Login">
+    <div class="signup_link">
+        Not a member? <a a asp-asp-controller="Accounts" asp-action="Register">Signup</a>
+    </div>
+</form>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}

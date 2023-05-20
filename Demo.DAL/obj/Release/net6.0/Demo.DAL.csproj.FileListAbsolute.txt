@@ -1,0 +1,14 @@
+D:\.Net learning\back_end\Demo.Pl\Demo.DAL\bin\Release\net6.0\Demo.DAL.deps.json
+D:\.Net learning\back_end\Demo.Pl\Demo.DAL\bin\Release\net6.0\Demo.DAL.runtimeconfig.json
+D:\.Net learning\back_end\Demo.Pl\Demo.DAL\bin\Release\net6.0\Demo.DAL.dll
+D:\.Net learning\back_end\Demo.Pl\Demo.DAL\bin\Release\net6.0\Demo.DAL.pdb
+D:\.Net learning\back_end\Demo.Pl\Demo.DAL\obj\Release\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\.Net learning\back_end\Demo.Pl\Demo.DAL\obj\Release\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net learning\back_end\Demo.Pl\Demo.DAL\obj\Release\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\.Net learning\back_end\Demo.Pl\Demo.DAL\obj\Release\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\.Net learning\back_end\Demo.Pl\Demo.DAL\obj\Release\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\.Net learning\back_end\Demo.Pl\Demo.DAL\obj\Release\net6.0\Demo.DAL.dll
+D:\.Net learning\back_end\Demo.Pl\Demo.DAL\obj\Release\net6.0\refint\Demo.DAL.dll
+D:\.Net learning\back_end\Demo.Pl\Demo.DAL\obj\Release\net6.0\Demo.DAL.pdb
+D:\.Net learning\back_end\Demo.Pl\Demo.DAL\obj\Release\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\.Net learning\back_end\Demo.Pl\Demo.DAL\obj\Release\net6.0\ref\Demo.DAL.dll

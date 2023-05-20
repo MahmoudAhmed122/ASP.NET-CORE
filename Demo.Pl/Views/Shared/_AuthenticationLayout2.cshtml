@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<!-- Coding By CodingNepal - youtube.com/codingnepal -->
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/AuthenticationLayoutStylecss.css">
+</head>
+<body>
+    <div class="center">
+        <h1>@ViewData["Title"]</h1>
+        @RenderBody()
+    </div>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

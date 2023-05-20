@@ -1,0 +1,69 @@
+﻿@using Demo.Pl.Models.ViewModels
+@model IEnumerable<ApplicationUser>
+
+@{
+    ViewData["Title"] = "Users";
+   
+}
+
+@if (Model?.Count() > 0)
+{
+    <div class="card border-infi   mb-3 mt-5" style="max-width: 100%;">
+        <div class="card-header">
+            <h5>
+                All Users 
+            </h5>
+
+
+        </div>
+        <div class="card-body">
+            <form asp-controller="Users" asp-action="Index">
+                <div class="row d-flex">
+                    <div class="col-md-6">
+                        <input class="form-control me-sm-2" type="search" name="searchValue" placeholder="Search By Email!">
+                    </div>
+                    <div class="col-4">
+                        <button class="btn btn-warning " type="submit">Search</button>
+                    </div>
+
+                </div>
+            </form>
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th scope="col">UserName</th>
+                        <th scope="col">Email</th>
+                        <th scope="col">Phoneumber</th>
+                        <th scope="col">Update</th>
+                        <th scope="col">Delete</th>
+                         <th scope="col">Action</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var user in Model) { 
+                        <tr class="table-primary">
+                            <td>@user.UserName</td>
+                            <td>@user.Email</td>
+                            <td>@user.PhoneNumber</td>
+                            <partial name="SharedViews/_ButtonsPartial" model="@user.Id" />
+                            <td><a asp-controller="Roles" asp-action="addRoles" asp-route-userId="@user.Id" class="btn btn-primary btn-sm" >Add Role</a></td>
+
+                    </tr>
+                    }  
+                
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+}
+else
+{
+    <div class="alert alert-dismissible alert-danger mt-5">
+        <h3>
+            There Are No Users Found!
+        </h3>
+    </div>
+}
+

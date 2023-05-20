@@ -1,0 +1,23 @@
+﻿@model EmployeeViewModel
+
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+
+<div class="card border-secondary mb-3" style="max-width: 100%; margin-top:20px;">
+    <div class="card-header">Employee Datails</div>
+    <div class="card-body">
+        <div class="row" style="margin-left:200px;">
+            <div class="col-md-8">
+              <partial name="SharedViews/_PropertiesPartial"/>
+                <a asp-controller="Employees" asp-action="Index" class="btn btn-danger mt-2">Back To List</a>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+

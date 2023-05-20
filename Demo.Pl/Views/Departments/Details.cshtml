@@ -1,0 +1,23 @@
+﻿@model DepartmentViewModel
+@{
+    ViewData["Title"] = "Department Details";
+}
+
+
+<div class="card border-secondary mb-3" style="max-width: 100%; margin-top:20px;">
+    <div class="card-header"> Department Details</div>
+    <div class="card-body">
+        <div class="row" style="margin-left:200px;">
+            <div class="col-md-8">
+                <div class="form-group">
+      <partial name="SharedViews/_PropertiesPartial"/>
+                <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary mt-2">Edit</a>
+
+                <a asp-action="Index" class="btn btn-danger mt-2">Back To List</a>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+

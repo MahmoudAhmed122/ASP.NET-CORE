@@ -1,0 +1,40 @@
+﻿@model ApplicationUser
+
+@{
+    ViewData["Title"] = "Edit User";
+}
+
+
+<div class="card border-secondary mb-3" style="max-width: 100%; margin-top:20px;">
+    <div class="card-header">Edit User</div>
+    <div class="card-body">
+        <div class="row" style="margin-left:200px;">
+            <div class="col-md-8">
+                <form method="post" asp-action="Edit" enctype="multipart/form-data">
+                   
+                     <input type="hidden" asp-for="Id" />                     
+                    <div class="form-group">
+                        <label class="form-label mt-2" asp-for="UserName"></label>
+                        <input asp-for="UserName" class="form-control" placeholder="Enter Employee Name">
+                        <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div>
+                      <div class="form-group">
+                        <label class="form-label mt-2" asp-for="PhoneNumber"></label>
+                        <input asp-for="PhoneNumber" class="form-control" placeholder="Enter Employee Age">
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+                    
+                   
+                    <button type="submit" class="btn btn-primary mt-2">Save</button>
+                    <a asp-controller="Users" asp-action="Index" class="btn btn-danger mt-2">Back To List</a>
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
